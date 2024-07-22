@@ -1,0 +1,62 @@
+.input1 {
+    outline: none;
+    width: 315px;
+    height: 45px;
+    border: 1px solid;
+    border-radius:10px;
+    border-color: #E0E0E0;
+    margin-top: 12px;
+    margin-left: 9px;
+}
+.input1::placeholder {
+    color: #E0E0E0;
+}
+.input2 {
+    outline: none;
+    width: 467px;
+    height: 45px;
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: #610000;
+    border-color: #FF0000;
+    margin-top: 12px;
+    margin-left: 9px;
+}
+.input2::placeholder {
+    color: #F07272
+}
+.input3 {
+    outline: none;
+    width: 541px;
+    height: 45px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: #A8AB00;
+    margin-top: 12px;
+    margin-left: 9px;
+}
+.input3::placeholder {
+    color: #A8AB00;
+}
+.input4 {
+    outline: none;
+    width: 315px;
+    height: 45px;
+    border: 2px solid;
+    border-radius: 30px;
+    border-color: #F9FE03;
+    background-color: #292828;
+    margin-top: 12px;
+    margin-left: 9px;
+}
+.input4::placeholder {
+    color:#F9FE03 ;
+}
+@font-face {
+    font-family: chemi fonti;
+    src: url("fonti/Inter-VariableFont_slnt\,wght.ttf");
+}
+input {
+    font-family: chemi fonti;
+    font-size: 16px;
+}
